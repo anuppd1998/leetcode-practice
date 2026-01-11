@@ -1,4 +1,4 @@
-# Employees Earning More Than Their Managers (LeetCode 176)
+# Employees Earning More Than Their Managers (LeetCode 181)
 
 ## Problem Statement
 
