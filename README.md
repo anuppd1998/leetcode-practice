@@ -8,3 +8,4 @@
 1. Question 181: Employees earning more than their managers --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/181-employees-earning-more-than-their-managers
 2. Question 182: Duplicate emails --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/182-duplicate-emails
 3. Question 183: Customer who never order --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/183-customer-who-never-orders
+4. Question 196: Delete Duplicate Emails --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/196-delete-duplicate-emails
