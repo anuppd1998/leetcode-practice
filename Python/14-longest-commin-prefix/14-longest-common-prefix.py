@@ -15,5 +15,3 @@ class Solution:
                 return ""
             
         return prefix
-    
-print(Solution(['flower', 'floor', 'slask']).longestCommonPrefix())
