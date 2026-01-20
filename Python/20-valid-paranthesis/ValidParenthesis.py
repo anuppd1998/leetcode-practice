@@ -45,9 +45,3 @@ class ValidParenthesis:
         
         # If the stack is empty, all parentheses were matched correctly
         return len(check_list) == 0
-    
-test_cases = ["()[]{}", "([)]", "{[]}", "((", "]]"]
-    
-for case in test_cases:
-    vp = ValidParenthesis(case)
-    print(f"Input: {case} -> Is Valid: {vp.isValid()}")
