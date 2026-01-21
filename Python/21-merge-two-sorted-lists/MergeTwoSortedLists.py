@@ -31,9 +31,11 @@ class MergeTwoSortedLists:
 
         # Compare elements from both lists and append the smaller one
         while i < len(self.list1) and j < len(self.list2):
+
             if self.list1[i] < self.list2[j]:
                 merged_list.append(self.list1[i])
                 i += 1
+                
             else:
                 merged_list.append(self.list2[j])
                 j += 1
