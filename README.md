@@ -6,6 +6,7 @@
 4. Problem 14: Longest Common Prefix --> https://github.com/anuppd1998/leetcode-practice/tree/main/Python/14-longest-commin-prefix
 5. Problem 20: Valid Parenthesis --> https://github.com/anuppd1998/leetcode-practice/tree/main/Python/20-valid-paranthesis
 6. Problem 21: Merge Two Sorted List --> https://github.com/anuppd1998/leetcode-practice/tree/main/Python/21-merge-two-sorted-lists
+7. Problem 26: Remove Duplicates from Sorted Array --> https://github.com/anuppd1998/leetcode-practice/tree/main/Python/26-remove-duplicated-from-sorted-array
 
 ## SQL
 1. Problem 181: Employees earning more than their managers --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/181-employees-earning-more-than-their-managers
@@ -19,3 +20,4 @@
 9. Problem 595: Big Countries --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/595-big-countries
 10. Problem 596: Classes With at least 5 Students --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/596-classes-with-at-least-5-students
 11. Problem 607: Sales Personn --> https://github.com/anuppd1998/leetcode-practice/tree/main/SQL/607-sales-person
+12. Problem 610: Triangle Judgement --> https://github.com/anuppd1998/leetcode-practice/blob/main/SQL/610-Triangle-Judgement/readme.md
